@@ -1,3 +1,9 @@
+libtool (2.4.6-0.1bb2) xenial; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Wed, 04 Jan 2017 18:25:31 +0100
+
 libtool (2.4.6-0.1bb1) unstable; urgency=medium
 
   * Bumped version number
